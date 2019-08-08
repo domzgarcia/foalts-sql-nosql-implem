@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+      "outDir": "build.browser",
+      "sourceMap": true,
+      "target": "es5",
+      "module": "amd",
+      "moduleResolution": "node",
+      "lib": ["es2016", "dom", "es5"],
+    
+      "rootDir": "src",
+      "jsx": "react"
+    },
+    "include": [
+      "src/@frontend/*.ts",
+      "src/@frontend/*.tsx",
+      "src/@frontend/**/*.ts",
+      "src/@frontend/**/*.tsx"
+    ]
+  }

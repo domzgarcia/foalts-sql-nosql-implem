@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "outDir": "build",
+    "sourceMap": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "strict": true,
+    "noImplicitAny": false,
+    "strictPropertyInitialization": false,
+    
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "target": "es5",
+
+    "rootDir": "src",
+    "lib": ["es2016", "dom", "es5"],
+    "jsx": "react",
+  },
+  "include": [
+    "src/**/*.ts",
+    "src/app/*.tsx",
+  ]
+}
