@@ -34,7 +34,7 @@
     "express-session": "^1.16.2",
     "module-alias": "^2.2.1",
     "mongodb": "^3.3.0-beta2",
-    "mongoose": "^5.4.9",
+    "mongoose": "^5.7.5",
     "source-map-support": "^0.5.1"
   },
   "devDependencies": {
