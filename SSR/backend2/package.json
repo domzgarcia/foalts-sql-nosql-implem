@@ -43,7 +43,7 @@
     "sqlite3": "^4.0.0",
     "systemjs": "^5.0.0",
     "ts-loader": "^6.0.4",
-    "typeorm": "^0.2.6",
+    "typeorm": "^0.2.25",
     "webpack": "^4.38.0"
   },
   "devDependencies": {
