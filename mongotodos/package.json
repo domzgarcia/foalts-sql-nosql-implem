@@ -30,7 +30,7 @@
     "@foal/csrf": "^1.0.1",
     "@foal/jwt": "^1.0.1",
     "connect-mongo": "^3.0.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-session": "^1.16.2",
     "module-alias": "^2.2.1",
     "mongodb": "^3.3.0-beta2",
